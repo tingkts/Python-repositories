@@ -1,0 +1,6 @@
+[submodule "openhome.cc_Gossip_python3-tutorial/JustinSDK_python3-tutorial"]
+	path = openhome.cc_Gossip_python3-tutorial/JustinSDK_python3-tutorial
+	url = https://github.com/JustinSDK/python3-tutorial.git
+[submodule "michaelliao/awesome-python3-webapp"]
+	path = michaelliao/awesome-python3-webapp
+	url = https://github.com/michaelliao/awesome-python3-webapp.git
